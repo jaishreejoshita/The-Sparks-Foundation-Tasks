@@ -1,2 +1,3 @@
-# Prediction Using Supervised ML via Linear Regression
-A simple linear regression model task to predict the percentage of a student based on the no. of the hours studied.
+# The Spark Foundation Tasks
+This repository contains the tasks that I completed while working as an intern for https://www.thesparksfoundationsingapore.org/ 
+
