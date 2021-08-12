@@ -1,5 +1,8 @@
-# The Spark Foundation Tasks                                         
+<p align = "right">
+  <img src ="https://github.com/JaishreeJoshita/The-Sparks-Foundation-Tasks/blob/main/The%20Sparks%20Foundation.png" width="200" height="180"/>
+</p>
 
+# The Spark Foundation Tasks                                         
 This repository contains the tasks that I completed while working as an intern for [The Sparks Foundation](https://www.thesparksfoundationsingapore.org/)
 - **Internship Category** - Data Science and Business Analytics
 - **Internship Duration** - 1 Month ( August - 2021 )
