@@ -1,6 +1,4 @@
-<p align = "right">
-  <img src ="https://github.com/JaishreeJoshita/The-Sparks-Foundation-Tasks/blob/main/The%20Sparks%20Foundation.png" width="200" height="180"/>
-</p>
+<img align="right" width="150" height="150" src="https://github.com/JaishreeJoshita/The-Sparks-Foundation-Tasks/blob/main/The%20Sparks%20Foundation.png">
 
 # The Spark Foundation Tasks                                         
 This repository contains the tasks that I completed while working as an intern for [The Sparks Foundation](https://www.thesparksfoundationsingapore.org/)
@@ -10,6 +8,9 @@ This repository contains the tasks that I completed while working as an intern f
 
 In this internship, we were provided a total of 10 Tasks (6 from own domain and 2 from other domains) and I was able to successfully complete all the 8 tasks within the given time-frame.
 
+<img align="right" width="80" height="80" src="https://github.com/JaishreeJoshita/The-Sparks-Foundation-Tasks/blob/main/Youtube.png">
+<img align="right" width="80" height="80" src="https://github.com/JaishreeJoshita/The-Sparks-Foundation-Tasks/blob/main/Tasks.png">
+
 ## #Task-1 : Prediction using Supervised ML (Level - Beginner)           
 *Please click on the images on right side to view my solution.*
 1. Predict the percentage of marks of an student based on the number of study hours.
@@ -18,6 +19,9 @@ In this internship, we were provided a total of 10 Tasks (6 from own domain and 
 4. You can use R, Python, SAS Enterprise Miner or any other tool.
 5. What will be predicted score if a student studies for 9.25 hrs/ day?
 
+<img align="right" width="80" height="80" src="https://github.com/JaishreeJoshita/The-Sparks-Foundation-Tasks/blob/main/Youtube.png">
+<img align="right" width="80" height="80" src="https://github.com/JaishreeJoshita/The-Sparks-Foundation-Tasks/blob/main/Tasks.png">
+
 ## #Task-2 : Prediction using Unsupervised ML (Level - Beginner)
 *Please click on the images on right side to view my solution.*
 
@@ -25,6 +29,8 @@ In this internship, we were provided a total of 10 Tasks (6 from own domain and 
 2. Use R or Python or perform this task.
 3. Data can be found at https://bit.ly/3cGyP8j
 
+<img align="right" width="80" height="80" src="https://github.com/JaishreeJoshita/The-Sparks-Foundation-Tasks/blob/main/Youtube.png">
+<img align="right" width="80" height="80" src="https://github.com/JaishreeJoshita/The-Sparks-Foundation-Tasks/blob/main/Tasks.png">
 
 ## #Task-3 : Prediction using Decision Tree Algorithm(Level - Intermediate)
 *Please click on the images on right side to view my solution.*
@@ -33,6 +39,8 @@ In this internship, we were provided a total of 10 Tasks (6 from own domain and 
 2. The purpose is if we feed any new data to this classifier, it would be able to predict the right class accordingly.
 3. Data can be found at https://bit.ly/3kXTdox
 
+<img align="right" width="80" height="80" src="https://github.com/JaishreeJoshita/The-Sparks-Foundation-Tasks/blob/main/Youtube.png">
+<img align="right" width="80" height="80" src="https://github.com/JaishreeJoshita/The-Sparks-Foundation-Tasks/blob/main/Tasks.png">
 
 ## #Task-4 : Stock Market Prediction using Numerical and Textual Analysis (Level - Advanced)
 *Please click on the images on right side to view my solution.*
@@ -45,6 +53,8 @@ NOTE : If you face any issue over dataset then please refer to the thread of Iss
 4. Download textual (news) data from https://bit.ly/36fFPI6
 5. Use either R or Python, or both for separate analysis and then combine the findings to create a hybrid model.
 
+<img align="right" width="80" height="80" src="https://github.com/JaishreeJoshita/The-Sparks-Foundation-Tasks/blob/main/Youtube.png">
+<img align="right" width="80" height="80" src="https://github.com/JaishreeJoshita/The-Sparks-Foundation-Tasks/blob/main/Tasks.png">
 
 ## #Task-5 : To Explore Business Analytics (Level - Beginner & Intermediate)
 *Please click on the images on right side to view my solution.*
@@ -56,6 +66,8 @@ NOTE : If you face any issue over dataset then please refer to the thread of Iss
 5. Dataset link :https://bit.ly/3i4rbWl
 6. Create storyboards. Screen record along with your audio explaining the charts and interpretations.
 
+<img align="right" width="80" height="80" src="https://github.com/JaishreeJoshita/The-Sparks-Foundation-Tasks/blob/main/Youtube.png">
+<img align="right" width="80" height="80" src="https://github.com/JaishreeJoshita/The-Sparks-Foundation-Tasks/blob/main/Tasks.png">
 
 ## #Task-6 : Timeline Analysis : Covid-19 (Level - Advanced)
 *Please click on the images on right side to view my solution.*
