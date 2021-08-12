@@ -1,1 +1,1 @@
-# The-Sparks-Foundation-Internship
+# Prediction Using Supervised ML via Linear Regression
