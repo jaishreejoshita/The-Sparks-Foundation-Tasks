@@ -1,4 +1,4 @@
-<img align="right" width="150" height="150" src="https://github.com/JaishreeJoshita/The-Sparks-Foundation-Tasks/blob/main/The%20Sparks%20Foundation.png">
+<img align="right" width="150" height="150" src="The Sparks Foundation.png">
 
 # The Spark Foundation Tasks                                         
 This repository contains the tasks that I completed while working as an intern for [The Sparks Foundation](https://www.thesparksfoundationsingapore.org/)
