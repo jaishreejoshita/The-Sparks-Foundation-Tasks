@@ -8,8 +8,8 @@ This repository contains the tasks that I completed while working as an intern f
 
 In this internship, we were provided a total of 10 Tasks (6 from own domain and 2 from other domains) and I was able to successfully complete all the 8 tasks within the given time-frame.
 
-<img align="right" width="80" height="80" src="https://github.com/JaishreeJoshita/The-Sparks-Foundation-Tasks/blob/main/Youtube.png">
-<img align="right" width="80" height="80" src="https://github.com/JaishreeJoshita/The-Sparks-Foundation-Tasks/blob/main/Tasks.png">
+<img align="right" width="80" height="80" src="Youtube.png">
+<img align="right" width="80" height="80" src="Tasks.png">
 
 ## #Task-1 : Prediction using Supervised ML (Level - Beginner)           
 *Please click on the images on right side to view my solution.*
